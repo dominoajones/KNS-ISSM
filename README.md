@@ -7,11 +7,11 @@ This project is undertaken by Mx. Domino Jones (PhD student) at the University o
 Contact: Domino.Jones@liverpool.ac.uk
 
 Structure of repo:
-> **source-code** holds ISSM pre-compiled binaries
-> **tinkering** contains .m scripts under development.
-> **trunk** holds datasets (for velocity, topography, SMB, and temperature) and .shp files for KNS system domain.
-> **KNS-setup** contains .exp files of KNS system domain and miscellanous .m scripts.
->  **run** contains files related to simulation runs.
-> **figs** holds key figure outputs from simulation runs.
+- **source-code** holds ISSM pre-compiled binaries
+- **tinkering** contains .m scripts under development.
+- **trunk** holds datasets (for velocity, topography, SMB, and temperature) and .shp files for KNS system domain.
+- **KNS-setup** contains .exp files of KNS system domain and miscellanous .m scripts.
+-  **run** contains files related to simulation runs.
+- **figs** holds key figure outputs from simulation runs.
 
 More information about datasets (references and pre-processing procedures) can be found on the readme.txt in the **trunk** folder.
